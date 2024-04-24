@@ -4,7 +4,7 @@
 
 # 联系方式
 * 有问题需要修改或者沟通交流请联系
-* telegram @Akiooook[https://t.me/Akiooook]
+* telegram https://t.me/Akiooook
 
 # 使用条件
 * python 3.9
