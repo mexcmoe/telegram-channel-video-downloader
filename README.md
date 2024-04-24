@@ -2,6 +2,10 @@
 * 从 telegram 任意频道中下载该频道的全部历史视频。
 * 支持偏移查询，可以从某条消息开始执行。
 
+# 联系方式
+* 有问题需要修改或者沟通交流请联系
+* telegram @Akiooook[https://t.me/Akiooook]
+
 # 使用条件
 * python 3.9
 * 需要在 my.telegram.org 页面申请自己的 api_id 和 api_hash
