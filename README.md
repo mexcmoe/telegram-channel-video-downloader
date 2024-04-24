@@ -3,8 +3,8 @@
 * 支持偏移查询，可以从某条消息开始执行。
 
 # 联系方式
-* 有问题需要修改或者沟通交流请联系
-* telegram https://t.me/Akiooook
+* 问题修改 | 功能定制 | 沟通交流
+* 请联系 telegram https://t.me/Akiooook
 
 # 使用条件
 * python 3.9
