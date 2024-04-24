@@ -27,7 +27,7 @@ session = str(api_id) + '_session'
 offset_id = 0
 
 # 每次查询的消息数量
-message_limit = 2
+message_limit = 100
 
 # 想要下载的频道用户名，如果频道地址是 https://t.me/abc，那么频道名称为 "abc"
 channel_username = ''
